@@ -19,7 +19,7 @@ RUN echo "deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main" > /etc/
   apt-get -yq install \
     adduser \
     ghostscript \
-    postgresql-client-9.4 \
+    postgresql-client-9.5 \
     python \
     python-pip \
     python-imaging \
